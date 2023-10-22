@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+    background-color: black;
+
+}
+
+h1{
+    color: aqua;
+    background-color: none;
+    text-align: center;
+}
